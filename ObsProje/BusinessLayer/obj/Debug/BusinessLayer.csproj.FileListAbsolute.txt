@@ -1,0 +1,11 @@
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\Entity.dll
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\Facade.dll
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\Entity.pdb
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\bin\Debug\Facade.pdb
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Kübra\Desktop\ObsProje\BusinessLayer\obj\Debug\BusinessLayer.pdb

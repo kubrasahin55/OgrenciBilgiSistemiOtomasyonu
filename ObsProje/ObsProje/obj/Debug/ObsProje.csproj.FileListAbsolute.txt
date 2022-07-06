@@ -1,0 +1,65 @@
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\bin\Debug\ObsProje.exe.config
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\bin\Debug\ObsProje.exe
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\bin\Debug\ObsProje.pdb
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.Anasayfa.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.BolumForm.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.DersForm.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.Form1.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.NotForm.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.OgrenciForm.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.OgretmenForm.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.Properties.Resources.resources
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.exe
+C:\Users\Kübra\source\repos\ObsProje\ObsProje\obj\Debug\ObsProje.pdb
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\ObsProje.exe.config
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\ObsProje.exe
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\ObsProje.pdb
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\BusinessLayer.dll
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\Entity.dll
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\Facade.dll
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\BusinessLayer.pdb
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\Entity.pdb
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\bin\Debug\Facade.pdb
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.AssemblyReference.cache
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.Anasayfa.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.BolumForm.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.DersForm.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.Form1.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.NotForm.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.OgrenciForm.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.OgretmenForm.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.Properties.Resources.resources
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.GenerateResource.cache
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.CopyComplete
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.exe
+C:\Users\Kübra\Desktop\ObsProje\ObsProje\obj\Debug\ObsProje.pdb
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\ObsProje.exe.config
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\ObsProje.exe
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\ObsProje.pdb
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\BusinessLayer.dll
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\Entity.dll
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\Facade.dll
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\BusinessLayer.pdb
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\Entity.pdb
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\bin\Debug\Facade.pdb
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.AssemblyReference.cache
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.Anasayfa.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.BolumCrud.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.BolumForm.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.BolumVeriAkt.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.DersForm.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.Form1.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.NotForm.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.OgrenciForm.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.OgretmenForm.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.Properties.Resources.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.XMLFORM.resources
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.GenerateResource.cache
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.csproj.CopyComplete
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.exe
+C:\Users\kubra\Masaüstü\Yeni klasör (6)\ObsProje\ObsProje\obj\Debug\ObsProje.pdb
